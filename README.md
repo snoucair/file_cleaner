@@ -52,3 +52,15 @@ The application uses a whitelist approach and allows only the following characte
   - Number of files processed
   - Number of lines removed
   - Any errors encountered during processing
+
+## Deployment
+
+The application is deployed on Streamlit Community Cloud. To deploy your own instance:
+
+1. Fork this repository to your GitHub account
+2. Visit [Streamlit Community Cloud](https://streamlit.io/cloud)
+3. Click "New app" and select this repository
+4. Choose the main branch and the file `text_cleaner_app.py`
+5. Click "Deploy"
+
+The app will be available at `https://your-app-name.streamlit.app`
