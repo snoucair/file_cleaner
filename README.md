@@ -6,7 +6,6 @@ A Streamlit-based application for cleaning text files by removing lines containi
 
 - User-friendly web interface built with Streamlit
 - Processes multiple files in batch
-- Preserves lines starting with 'P1' or 'P2'
 - Removes lines containing non-standard characters
 - Supports UTF-8 encoding with fallback error handling
 - Shows detailed processing statistics and results
