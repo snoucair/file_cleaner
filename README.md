@@ -1,4 +1,4 @@
-# Valo Text Cleaner
+# Text Cleaner
 
 A Streamlit-based application for cleaning text files by removing lines containing non-standard characters while preserving specific patterns.
 
