@@ -1,34 +1,24 @@
-# Python
+# Keep only essential files
+*
+!.gitignore
+!README.md
+!requirements.txt
+!valo_text_cleaner_app.py
+
+# Python specific ignores
+*.pyc
 __pycache__/
+*.pyo
+*.pyd
+.Python
 *.py[cod]
 *$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
 
 # Virtual Environment
-.env
-.venv
-env/
 venv/
-ENV/
-
-# Streamlit
-.streamlit/
+env/
+.env/
+.venv/
 
 # IDE
 .vscode/
