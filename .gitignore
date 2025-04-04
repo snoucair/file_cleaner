@@ -3,7 +3,7 @@
 !.gitignore
 !README.md
 !requirements.txt
-!valo_text_cleaner_app.py
+!text_cleaner_app.py
 
 # Python specific ignores
 *.pyc

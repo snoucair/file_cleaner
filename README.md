@@ -1,4 +1,4 @@
-# Valo Text Cleaner
+# Text Cleaner
 
 A Streamlit-based application for cleaning text files by removing lines containing non-standard characters while preserving specific patterns.
 
@@ -6,7 +6,6 @@ A Streamlit-based application for cleaning text files by removing lines containi
 
 - User-friendly web interface built with Streamlit
 - Processes multiple files in batch
-- Preserves lines starting with 'P1' or 'P2'
 - Removes lines containing non-standard characters
 - Supports UTF-8 encoding with fallback error handling
 - Shows detailed processing statistics and results
@@ -30,7 +29,7 @@ Note: Tkinter is typically included with Python's standard library.
 
 1. Run the application:
 ```bash
-streamlit run valo_text_cleaner_app.py
+streamlit run text_cleaner_app.py
 ```
 
 2. In the web interface:
